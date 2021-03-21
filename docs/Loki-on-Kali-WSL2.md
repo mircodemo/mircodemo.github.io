@@ -1,4 +1,4 @@
-[< Back to Home]: index.md
+[< Back to Home](index.md)
 
 # Install Loki IOC Scanner on Kali WSL2
 
