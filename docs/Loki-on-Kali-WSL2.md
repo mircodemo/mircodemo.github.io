@@ -88,3 +88,5 @@ sudo python3 loki.py -p test --onlyrelevant --nolog
 If all working properly you should get Loki presentation page and some alert:
 
 ![img/image-20210317005803307](https://raw.githubusercontent.com/mircodemo/Kali-Linux-WSL2-tips-and-triks/main/docs/img/image-20210317005803307.png)
+
+[< Back to Home](https://mircodemo.github.io/)
