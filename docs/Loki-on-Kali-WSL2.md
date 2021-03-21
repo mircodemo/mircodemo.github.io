@@ -1,4 +1,4 @@
-[< Back to Home](index.md)
+[< Back to Home](https://mircodemo.github.io/)
 
 # Install Loki IOC Scanner on Kali WSL2
 
