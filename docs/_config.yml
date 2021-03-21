@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 title: Kali Linux on WSL2 tips and triks
 description: Some useful suggestion to enjoy Kali on WSL2 (Windows Subsystem Linux)
-show_downloads: "false"
+show_downloads: false
